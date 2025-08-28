@@ -39,8 +39,7 @@
 
 ---
 
-## 🔝 Top Pinned Repo
-![](https://github-readme-stats.vercel.app/api/pin/?username=THARANI002&repo=portfolio&theme=neon)  
+
 
 ---
 
