@@ -44,17 +44,18 @@
 
 # 📊 GitHub Stats:
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=THARANI002&theme=neon&hide_border=false&count_private=false" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THARANI002&theme=neon&hide_border=false&layout=compact" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=THARANI002&theme=radical&hide_border=false" alt="GitHub streak" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=THARANI002&label=Profile+Views&color=39FF14&style=for-the-badge" alt="Profile views" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" valign="middle">
+      <img width="420" src="https://github-readme-stats.vercel.app/api?username=THARANI002&theme=neon&hide_border=false&count_private=false&card_width=420" alt="GitHub stats" />
+    </td>
+    <td align="center" valign="middle">
+      <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THARANI002&theme=neon&hide_border=false&layout=compact&card_width=420" alt="Top languages" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img width="600" src="https://streak-stats.demolab.com/?user=THARANI002&theme=radical&hide_border=false&card_width=600" alt="GitHub streak" />
+    </td>
+  </tr>
+</table>
