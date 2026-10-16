@@ -45,31 +45,16 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=THARANI002&theme=neon&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=THARANI002&theme=neon&hide_border=false" alt="GitHub streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THARANI002&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=THARANI002&theme=neon&hide_border=false&count_private=false" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THARANI002&theme=neon&hide_border=false&layout=compact" alt="Top languages" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=THARANI002&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub trophies" />
-</p>
-
----
-
-## 🔝 Top Contributed Repo
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=THARANI002&limit=5&theme=ocean_dark&combine_all_yearly_contributions=true" alt="Top contributed repos" />
+  <img src="https://streak-stats.demolab.com/?user=THARANI002&theme=radical&hide_border=false" alt="GitHub streak" />
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=THARANI002&icon=0&color=0" alt="Visitor count" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=THARANI002&label=Profile+Views&color=39FF14&style=for-the-badge" alt="Profile views" />
 </p>
